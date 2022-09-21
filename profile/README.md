@@ -2,7 +2,7 @@
 
 <br><img src="https://raw.githubusercontent.com/entergon/.github/main/assets/divider.png" width="100%" height="1px" /><br><br>
 
-## Hey 👋🏻
+### Hey 👋🏻
 
 entergon ist der führende Cloud- und Full-Service-Anbieter für Digital Signage-, Mobile App- und Web-Lösungen.
 
