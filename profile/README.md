@@ -1,6 +1,6 @@
-<img src="../assets/logo.png" width="100%" />
+<img src="https://raw.githubusercontent.com/entergon/.github/main/assets/logo.png" width="100%" />
 
-<br><img src="../assets/divider.png" width="100%" height="1px" /><br><br>
+<br><img src="https://raw.githubusercontent.com/entergon/.github/main/assets/divider.png" width="100%" height="1px" /><br><br>
 
 ## Hey 👋🏻
 
@@ -8,13 +8,13 @@ entergon ist der führende Cloud- und Full-Service-Anbieter für Digital Signage
 
 Unser Ziel ist die Schaffung eines maximalen Kundenerlebnisses am initialen Point of Contact und entlang der Customer Journey.
 
-<br><img src="../assets/divider.png" width="100%" height="1px" /><br><br>
+<br><img src="https://raw.githubusercontent.com/entergon/.github/main/assets/divider.png" width="100%" height="1px" /><br><br>
 
 Wir lieben unsere Kunden. Wir sind schnell, flexibel und pragmatisch. Wir suchen gemeinsam mit unseren Kunden die beste Lösung.
 
 > [Unsere Missionen und Werte](https://entergon.de/unsere-mission-und-werte/)
 
-<br><img src="../assets/divider.png" width="100%" height="1px" /><br><br>
+<br><img src="https://raw.githubusercontent.com/entergon/.github/main/assets/divider.png" width="100%" height="1px" /><br><br>
 
 ### Unser Angebot
 
